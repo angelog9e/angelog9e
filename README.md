@@ -17,13 +17,6 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-<h3>Browsers</h3>
-<p>
-  <img alt="BRAVE" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/>
-  <img alt="EDGE" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
-  <img alt="CHROME" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
-</p>
-
 <h3>Gaming</h3>
 <p>
   <img alt="BATTTLE.NET" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"/>
